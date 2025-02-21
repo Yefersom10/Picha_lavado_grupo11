@@ -14,3 +14,7 @@
 ## Repositorios
 - [ Backend_Picha lavado  ](https://github.com/Yefersom10/Backend_Picha_lavado.git)
 - [ Frontend_Picha lavado ](https://github.com/Yefersom10/Fronted-Picha-lavado.git)
+## Gestion de proyecto  
+- [ Trello_Picha lavado  ](https://trello.com/b/43FXicsA/picha-lavado-grupo-11)
+- [ Figma_Picha lavado  ](https://www.figma.com/design/jrregCEjeNVMYpR1FAVe7E/picha-lavado?node-id=0-1&p=f&t=l8AnMVwyaAkm28GM-0)
+
