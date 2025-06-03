@@ -1,20 +1,41 @@
-# 📌 Picha Lavado - Sistema de Gestión de Lavado de Autos 🚗💦
-¡Bienvenido a Picha Lavado! 🎉 Este es un sistema diseñado para gestionar de manera eficiente los servicios de un lavadero de autos, ofreciendo a los clientes una experiencia rápida y organizada.
+# Picha Lavado - Sistema de Gestión de Lavado de Autos 🚗✨
+Picha Lavado es una aplicación web desarrollada con Angular (Frontend) y Spring Boot (Backend) que optimiza la gestión de un lavadero de autos, ofreciendo:
 
-### ✨ Funciones principales:
+## 🔹 Funcionalidades Clave
+- 🔐 Autenticación segura:
 
-- ✅ Agendamiento de turnos: Permite a los clientes reservar su servicio en línea.
-- ✅ Selección de tipo de lavado: Diferentes opciones de lavado según la necesidad del cliente.
-- ✅ Gestión de pagos: Integración con pagos en línea para mayor comodidad.
-- ✅ Historial de servicios: Registro de los servicios realizados por cada cliente.
-- ✅ Gestión de empleados: Asignación de tareas a los trabajadores del lavadero.
-### Integrantes:
-- Yeferson Esmid Heredia Perdomo
-- Nicolas Obregon Rojas
-## Repositorios
-- [ Backend_Picha lavado  ](https://github.com/Yefersom10/Backend_Picha_lavado.git)
-- [ Frontend_Picha lavado ](https://github.com/Yefersom10/Fronted-Picha-lavado.git)
-## Gestion de proyecto  
-- [ Trello_Picha lavado  ](https://trello.com/b/43FXicsA/picha-lavado-grupo-11)
-- [ Figma_Picha lavado  ](https://www.figma.com/design/zEgrHVvkO5KAT2qb6tPWAY/PICHA-LAVADO?node-id=0-1&p=f&t=jKFZ1iO5IwLcDl0X-0)
+  - Login y registro de usuarios (clientes y administradores).
 
+  - Navegación diferenciada por roles (Usuario y Admin).
+
+- 📅 Agendamiento en línea: Reserva de turnos con selección de tipo de lavado.
+
+- 💳 Gestión de pagos: Integración con pasarelas de pago (simulada).
+
+- 📊 Dashboard administrativo:
+
+- Visualización de historial de servicios.
+
+- Asignación de tareas a empleados.
+
+- 🔄 CRUD completo: Para clientes, servicios y empleados.
+
+## 🛠️ Tecnologías
+| **Frontend**	| **Backend** |
+|:---------:|:--------:|
+| Angular 15+ |	Spring Boot 3.x |
+| TypeScript | Java 17+ |
+| Angular Material |	Spring Security |
+| RxJS |	JPA/Hibernate |
+| LocalStorage/JWT |	MySQL/PostgreSQL |
+## 🌟 Colaboradores
++ Yeferson Esmid Heredia Perdomo
+
++ Nicolás Obregón Rojas
+
+## 🔗 Repositorios:
+[Frontend](https://github.com/Yefersom10/Fronted-Picha-lavado.git) | [Backend](https://github.com/Yefersom10/Backend_Picha_lavado.git)
+## 📌 Gestión del proyecto:
+[Trello](https://trello.com/b/43FXicsA/picha-lavado-grupo-11) | [Figma](https://www.figma.com/design/zEgrHVvkO5KAT2qb6tPWAY/PICHA-LAVADO?node-id=0-1&p=f&t=jKFZ1iO5IwLcDl0X-0)
+----
+¡Lava, organiza y crece con Picha Lavado! 🧼🚀
